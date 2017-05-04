@@ -7,6 +7,7 @@ All datasets needed to run our notebooks can be found [here](https://s3.amazonaw
 ```
 wget https://s3.amazonaws.com/109b/get_datasets.sh && . get_datasets.sh
 ```
+All milestone notebooks were submitted over the course of the project. The remaining notebooks were created for the final submission.
 
 ## Notebook Descriptions
 
